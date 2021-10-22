@@ -1,0 +1,58 @@
+/* Styles for body */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+/* Styles for textarea */
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+/* Styles for Jumbotron */
+.jumbotron {
+  text-align: center;
+  background-color: cornflowerblue;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+/* Styles for Description */
+.description {
+  white-space: pre-wrap;
+}
+
+/* Styles for  row */
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;
+}
+/* Styles for  hour */
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+/* Styles for Save Button */
+.save-button {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06aed5;
+  color: white;
+}
+
+/* Styles for Save icon */
+.fa-save {
+  padding: 10px;
+}
+
+/* Styles for container */
+.container {
+  margin-bottom: 10%;
+}
